@@ -20,6 +20,7 @@ body{background: url(fundo.jpeg);
 }
 .cartao__conteudo{
     text-align: center;
+    align-items: center;
     height: 100%;
     background-color: rgb(102, 71, 131);
     transform-style: preserve-3d;
